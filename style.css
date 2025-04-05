@@ -1,8 +1,12 @@
-#watermelon {
-    display: flex;
-    justify-content: center;
-   align-items: center;
-  }
-  body{
-    background-color: blueviolet;
-  }
+  #watermelon {
+      display: flex;
+      justify-content: center;
+    align-items: center;
+    }
+    #text {
+      font-size: xx-large;
+      font-weight: 1000;
+      color: crimson;
+    }
+   
+    
