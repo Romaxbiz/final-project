@@ -7,6 +7,11 @@
       font-size: xx-large;
       font-weight: 1000;
       color: crimson;
+      font-family:sans-serif;
     }
    
-    
+    h1 {
+      font-family: sans-serif;
+      color:rgb(3, 67, 3);
+      font-size:xx-large
+    }
